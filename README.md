@@ -8,7 +8,7 @@ I'm Raphael Carneiro and i am learn about how be a efficient dev
   <a href = "mailto:ojraphael2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphaelkrneiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -25,9 +25,6 @@ I'm Raphael Carneiro and i am learn about how be a efficient dev
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/krneiro/krneiro/output/snake.svg" alt="Snake animation" />
-
 </div>
 <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" target="_blank"></a> 
   
