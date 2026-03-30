@@ -25,10 +25,11 @@ I'm Raphael Carneiro and i am learn about how be a efficient dev
 </div>
 
 ###
-  
-  
-  
+
+<img src="https://raw.githubusercontent.com/krneiro/krneiro/output/snake.svg" alt="Snake animation" />
+
 </div>
 <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" target="_blank"></a> 
   
+
 
